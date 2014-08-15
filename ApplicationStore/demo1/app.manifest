@@ -1,0 +1,10 @@
+CACHE MANIFEST
+
+CACHE:
+logo-offline.gif
+index.html
+CSS/main.css
+Javascript/bwH5LS.js
+
+FALLBACK:
+logo.gif logo-offline.gif
